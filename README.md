@@ -1,9 +1,9 @@
 ## Welcome to my blog 
 
-Trial and Error marketplace
-The Trial and Error token will grow significant in value
+Dolores Lorem Ipsum
+Dolores Lorem ipsum will grow significant
 
-Welcome to the most efficient marketplace and transactions based on smart contract.
+Dolores Lorem Ipsum based on smart contract.
 Empowered by Ethereum.
 
 ### Markdown
