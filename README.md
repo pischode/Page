@@ -1,8 +1,10 @@
 ## Welcome to my blog 
 
-You can use the [editor on GitHub](https://github.com/pischode/Page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Trial and Error marketplace
+The Trial and Error token will grow significant in value
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to the most efficient marketplace and transactions based on smart contract.
+Empowered by Ethereum.
 
 ### Markdown
 
